@@ -50,6 +50,7 @@ git clone https://github.com/rkedida/philo.git
 cd philo
 ```
 Clone the repository to your local machine.
+
 Navigate to the project directory.
 
 ## Build and Run
