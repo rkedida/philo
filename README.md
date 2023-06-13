@@ -63,3 +63,6 @@ make
 ```
 Replace 'number_of_philosophers', 'time_to_die', 'time_to_eat', 'time_to_sleep', and 'number_of_times_each_philosopher_must_eat' (optional)
 with the desired values.
+
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
