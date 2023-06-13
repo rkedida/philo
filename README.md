@@ -46,6 +46,11 @@ To prevent philosophers from duplicating forks, the forks state is protected wit
 
 ## Instructions
 Clone the repository to your local machine.
+```sh
+git clone https://github.com/rkedida/philo.git
+cd philo
+make
+```
 Navigate to the project directory.
 
 ## Build and Run
