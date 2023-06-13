@@ -45,12 +45,11 @@ so each philosopher has a fork on their left and a fork on their right.
 To prevent philosophers from duplicating forks, the forks state is protected with a mutex for each of them.
 
 ## Instructions
-Clone the repository to your local machine.
 ```sh
 git clone https://github.com/rkedida/philo.git
 cd philo
-make
 ```
+Clone the repository to your local machine.
 Navigate to the project directory.
 
 ## Build and Run
